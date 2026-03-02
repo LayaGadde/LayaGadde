@@ -1,9 +1,12 @@
-# Hi 👋 I'm Laya  
+## 👋 About Me
 
-💻 Python Developer | Full Stack Learner  
-🌱 Currently building real-world projects  
-🎯 Goal: Software Engineer  
+Hi, I'm **Laya Gadde** 👩‍💻  
 
+🚀 Aspiring Python Full Stack Developer  
+💡 Passionate about backend systems & automation  
+🛠 Currently building real-world web applications using Flask & MySQL  
+📚 Continuously learning modern web technologies  
+🎯 Goal: To become a skilled Software Engineer and contribute to impactful projects
 ---
 
 ## 🚀 Tech Stack

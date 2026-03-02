@@ -22,5 +22,5 @@
 ---
 
 ## 📫 Connect With Me
-📧 Email: [yourmail@gmail.com](mailto:layagadde1110@gmail.com)  
+📧 Email: [layagadde1110@gmail.com](mailto:layagadde1110@gmail.com)  
 💼 LinkedIn: [LinkedIn Profile](https://linkedin.com/in/laya-gadde999)

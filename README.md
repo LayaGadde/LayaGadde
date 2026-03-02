@@ -7,12 +7,10 @@
 ---
 
 ## 🚀 Tech Stack
-- Python  
-- Flask  
-- HTML  
-- CSS  
-- JavaScript  
-- MySQL  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ---
 

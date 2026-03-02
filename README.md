@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi 👋 I'm Laya  
 
-<!--
-**LayaGadde/LayaGadde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Python Developer | Full Stack Learner  
+🌱 Currently building real-world projects  
+🎯 Goal: Software Engineer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+- Python  
+- Flask  
+- HTML  
+- CSS  
+- JavaScript  
+- MySQL  
+
+---
+
+## 📫 Connect With Me
+📧 Email: [yourmail@gmail.com](mailto:layagadde1110@gmail.com)  
+💼 LinkedIn: [LinkedIn Profile](https://linkedin.com/in/laya-gadde999)
